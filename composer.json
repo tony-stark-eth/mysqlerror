@@ -1,0 +1,21 @@
+{
+  "name": "mysql/errors",
+  "description": "A SQL query builder with zero dependencies",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Mauel",
+      "email": "kmauel@i-doit.com",
+      "homepage": "https://github.com/Bavragor"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "MySQL\\Error\\": "src/"
+    }
+  }
+}

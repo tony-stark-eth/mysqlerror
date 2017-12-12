@@ -1,5 +1,5 @@
 {
-  "name": "mysql/errors",
+  "name": "mysql-php/errors",
   "description": "A SQL query builder with zero dependencies",
   "type": "library",
   "license": "MIT",

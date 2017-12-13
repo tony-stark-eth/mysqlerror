@@ -11,7 +11,7 @@ using them in applications.
 
 ## Usage
 
-To start using error constants in your code, require mysql/errors in [Composer](https://getcomposer.org/):
+To start using error constants in your code, require mysql-php/errors in [Composer](https://getcomposer.org/):
 
 ```
 composer require mysql-php/errors

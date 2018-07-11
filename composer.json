@@ -1,6 +1,6 @@
 {
   "name": "mysql-php/errors",
-  "description": "A SQL query builder with zero dependencies",
+  "description": "MySQL Server Error Constants for PHP",
   "type": "library",
   "license": "MIT",
   "authors": [
